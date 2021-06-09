@@ -7,17 +7,25 @@ html {
     padding-top: 70px;
     padding-bottom: 70px;
 }
+.navbar-brand {
+  font-size: 30px;
+}
 .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-size: 12px;
+    font-size: 15px;
     letter-spacing: 5px;
 }
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
+}
+.btn {
+  background-color: #1abc9c;
+  color: black;
+  margin-top: 2rem;
 }
 
 .footer-padding {
